@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:07 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Sun Nov 13 19:30:01 2022
+# Process ID: 19183
+# Current directory: /home/saacman/Projects/vhdl_hms/vhdl_hms.runs/impl_1
+# Command line: vivado -log ripple_adder_tb.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source ripple_adder_tb.tcl -notrace
+# Log file: /home/saacman/Projects/vhdl_hms/vhdl_hms.runs/impl_1/ripple_adder_tb.vdi
+# Journal file: /home/saacman/Projects/vhdl_hms/vhdl_hms.runs/impl_1/vivado.jou
+#-----------------------------------------------------------
+source ripple_adder_tb.tcl -notrace
