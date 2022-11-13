@@ -1,2 +1,12 @@
-INFO: [VRFC 10-163] Analyzing VHDL file "/home/saacman/Projects/vhdl_hms/vhdl_hms.srcs/sources_1/new/n_adder_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/saacman/Projects/HMS_Labs/lab1_adders/lab1_adders.srcs/sources_1/new/and2.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'and2'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/saacman/Projects/HMS_Labs/lab1_adders/lab1_adders.srcs/sources_1/new/full_adder.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'full_adder'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/saacman/Projects/HMS_Labs/lab1_adders/lab1_adders.srcs/sources_1/new/half_adder.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'half_adder'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/saacman/Projects/HMS_Labs/lab1_adders/lab1_adders.srcs/sources_1/new/n_adder.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'n_adder'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/saacman/Projects/HMS_Labs/lab1_adders/lab1_adders.srcs/sources_1/new/xor2.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'xor2'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/saacman/Projects/HMS_Labs/lab1_adders/lab1_adders.srcs/sources_1/new/n_adder_tb.vhd" into library xil_defaultlib
 INFO: [VRFC 10-3107] analyzing entity 'ripple_adder_tb'

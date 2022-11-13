@@ -1,0 +1,10 @@
+0.7
+2020.2
+Jun 10 2021
+19:45:28
+/home/saacman/Projects/HMS_Labs/lab1_adders/lab1_adders.srcs/sources_1/new/and2.vhd,1668033976,vhdl,,,,and2,,,,,,,,
+/home/saacman/Projects/HMS_Labs/lab1_adders/lab1_adders.srcs/sources_1/new/full_adder.vhd,1668035985,vhdl,,,,full_adder,,,,,,,,
+/home/saacman/Projects/HMS_Labs/lab1_adders/lab1_adders.srcs/sources_1/new/half_adder.vhd,1668034787,vhdl,,,,half_adder,,,,,,,,
+/home/saacman/Projects/HMS_Labs/lab1_adders/lab1_adders.srcs/sources_1/new/n_adder.vhd,1668364027,vhdl,/home/saacman/Projects/HMS_Labs/lab1_adders/lab1_adders.srcs/sources_1/new/n_adder_tb.vhd,,,n_adder,,,,,,,,
+/home/saacman/Projects/HMS_Labs/lab1_adders/lab1_adders.srcs/sources_1/new/n_adder_tb.vhd,1668364437,vhdl,,,,ripple_adder_tb,,,,,,,,
+/home/saacman/Projects/HMS_Labs/lab1_adders/lab1_adders.srcs/sources_1/new/xor2.vhd,1668033938,vhdl,,,,xor2,,,,,,,,
