@@ -1,0 +1,15 @@
+Vivado Simulator v2021.1
+Copyright 1986-1999, 2001-2021 Xilinx, Inc. All Rights Reserved.
+Running: /mnt/hdd/.tools/Xilinx/Vivado/2021.1/bin/unwrapped/lnx64.o/xelab -wto 205c4557ef864dc58a957515408cdbe1 --incr --debug typical --relax --mt 8 -L xil_defaultlib -L secureip --snapshot BCDto7Seg_tb_behav xil_defaultlib.BCDto7Seg_tb -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling architecture behavioral of entity xil_defaultlib.bcd_decoder [bcd_decoder_default]
+Compiling architecture tb of entity xil_defaultlib.bcdto7seg_tb
+Built simulation snapshot BCDto7Seg_tb_behav
