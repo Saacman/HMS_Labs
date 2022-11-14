@@ -72,4 +72,4 @@ BCD | Segments
 1110|1001111
 1111|1000111
 
-![BCD](img/lab2/7-segment.png | width=100)
+![BCD](img/lab2/7-segment.png =250x250)
