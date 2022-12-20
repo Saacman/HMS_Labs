@@ -1,0 +1,21 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../pop_machine.srcs/sources_1/imports/Downloads/functions.vhd" \
+"../../../../pop_machine.srcs/sources_1/imports/hms_solutions/lab5/solutions/Debouncer.vhd" \
+"../../../../pop_machine.srcs/sources_1/new/PopMachine_Top.vhd" \
+"../../../../pop_machine.srcs/sources_1/imports/hms_solutions/lab5/solutions/SevenSegDriver.vhd" \
+"../../../../pop_machine.srcs/sources_1/new/coin_decoder.vhd" \
+"../../../../pop_machine.srcs/sources_1/imports/new/full_adder.vhd" \
+"../../../../pop_machine.srcs/sources_1/imports/new/half_adder.vhd" \
+"../../../../pop_machine.srcs/sources_1/imports/lab3/leds_mux.vhd" \
+"../../../../pop_machine.srcs/sources_1/imports/new/n_adder.vhd" \
+"../../../../pop_machine.srcs/sources_1/imports/new/n_comparator.vhd" \
+"../../../../pop_machine.srcs/sources_1/imports/new/onebit_comparator.vhd" \
+"../../../../pop_machine.srcs/sources_1/imports/hms_solutions/lab6/solutions/popfsm.vhd" \
+"../../../../pop_machine.srcs/sources_1/new/ripple_adder.vhd" \
+"../../../../pop_machine.srcs/sources_1/imports/lab3/sevenseg.vhd" \
+"../../../../pop_machine.srcs/sources_1/imports/hms_solutions/lab4_solutions/solutions/updown_cnt.vhd" \
+"../../../../pop_machine.srcs/sources_1/new/pop_tb.vhd" \
+
+# Do not sort compile order
+nosort

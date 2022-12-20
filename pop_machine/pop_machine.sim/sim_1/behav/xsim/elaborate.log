@@ -1,0 +1,9 @@
+Vivado Simulator v2021.1
+Copyright 1986-1999, 2001-2021 Xilinx, Inc. All Rights Reserved.
+Running: /mnt/hdd/.tools/Xilinx/Vivado/2021.1/bin/unwrapped/lnx64.o/xelab -wto 00fda2cc69ca4bcea053fc21945a5037 --incr --debug typical --relax --mt 8 -L xil_defaultlib -L secureip --snapshot pop_machine_top_tb_behav xil_defaultlib.pop_machine_top_tb -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-4940] 'and2' remains a black box since it has no binding entity [/home/saacman/Projects/HMS_Labs/pop_machine/pop_machine.srcs/sources_1/imports/new/half_adder.vhd:55]
+WARNING: [VRFC 10-4940] 'xor2' remains a black box since it has no binding entity [/home/saacman/Projects/HMS_Labs/pop_machine/pop_machine.srcs/sources_1/imports/new/half_adder.vhd:56]
+Completed static elaboration
+INFO: [XSIM 43-4323] No Change in HDL. Linking previously generated obj files to create kernel

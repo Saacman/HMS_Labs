@@ -1,0 +1,20 @@
+0.7
+2020.2
+Jun 10 2021
+19:45:28
+/home/saacman/Projects/HMS_Labs/pop_machine/pop_machine.srcs/sources_1/imports/Downloads/functions.vhd,1670943561,vhdl,/home/saacman/Projects/HMS_Labs/pop_machine/pop_machine.srcs/sources_1/imports/hms_solutions/lab5/solutions/Debouncer.vhd;/home/saacman/Projects/HMS_Labs/pop_machine/pop_machine.srcs/sources_1/imports/hms_solutions/lab5/solutions/SevenSegDriver.vhd,,,functions,,,,,,,,
+/home/saacman/Projects/HMS_Labs/pop_machine/pop_machine.srcs/sources_1/imports/hms_solutions/lab4_solutions/solutions/updown_cnt.vhd,1668523370,vhdl,,,,up_dn_counter_top,,,,,,,,
+/home/saacman/Projects/HMS_Labs/pop_machine/pop_machine.srcs/sources_1/imports/hms_solutions/lab5/solutions/Debouncer.vhd,1669127737,vhdl,,,,debouncer,,,,,,,,
+/home/saacman/Projects/HMS_Labs/pop_machine/pop_machine.srcs/sources_1/imports/hms_solutions/lab5/solutions/SevenSegDriver.vhd,1669742402,vhdl,,,,sevensegment_driver,,,,,,,,
+/home/saacman/Projects/HMS_Labs/pop_machine/pop_machine.srcs/sources_1/imports/hms_solutions/lab6/solutions/popfsm.vhd,1671534553,vhdl,,,,popmachine_controller_fsm,,,,,,,,
+/home/saacman/Projects/HMS_Labs/pop_machine/pop_machine.srcs/sources_1/imports/lab3/leds_mux.vhd,1670339368,vhdl,,,,sevenseg_mux,,,,,,,,
+/home/saacman/Projects/HMS_Labs/pop_machine/pop_machine.srcs/sources_1/imports/lab3/sevenseg.vhd,1669733064,vhdl,,,,bcdto7seg,,,,,,,,
+/home/saacman/Projects/HMS_Labs/pop_machine/pop_machine.srcs/sources_1/imports/new/full_adder.vhd,1668035985,vhdl,,,,full_adder,,,,,,,,
+/home/saacman/Projects/HMS_Labs/pop_machine/pop_machine.srcs/sources_1/imports/new/half_adder.vhd,1668034787,vhdl,,,,half_adder,,,,,,,,
+/home/saacman/Projects/HMS_Labs/pop_machine/pop_machine.srcs/sources_1/imports/new/n_adder.vhd,1671528240,vhdl,,,,n_adder,,,,,,,,
+/home/saacman/Projects/HMS_Labs/pop_machine/pop_machine.srcs/sources_1/imports/new/n_comparator.vhd,1668369434,vhdl,,,,n_comparator,,,,,,,,
+/home/saacman/Projects/HMS_Labs/pop_machine/pop_machine.srcs/sources_1/imports/new/onebit_comparator.vhd,1668368666,vhdl,,,,onebit_comparator,,,,,,,,
+/home/saacman/Projects/HMS_Labs/pop_machine/pop_machine.srcs/sources_1/new/PopMachine_Top.vhd,1671535051,vhdl,,,,popmachine_top,,,,,,,,
+/home/saacman/Projects/HMS_Labs/pop_machine/pop_machine.srcs/sources_1/new/coin_decoder.vhd,1671530710,vhdl,,,,coin_decoder,,,,,,,,
+/home/saacman/Projects/HMS_Labs/pop_machine/pop_machine.srcs/sources_1/new/pop_tb.vhd,1671534867,vhdl,,,,pop_machine_top_tb,,,,,,,,
+/home/saacman/Projects/HMS_Labs/pop_machine/pop_machine.srcs/sources_1/new/ripple_adder.vhd,1671535079,vhdl,,,,ripple_adder,,,,,,,,
